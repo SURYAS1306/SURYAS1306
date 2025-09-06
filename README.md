@@ -72,10 +72,3 @@ A hosted **Web/Mobile app** project showcasing my ability to deliver **productio
 ![Surya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SURYAS1306&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SURYAS1306&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SURYAS1306&theme=radical)  
-
----
-
-### ✨ Fun Section  
-> _"Code is like humor. When you have to explain it, it’s bad."_  
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)  
