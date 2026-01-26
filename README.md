@@ -52,10 +52,6 @@ Designed scalable **Spring Boot + MySQL** backend with JWT authentication, deplo
 📌 **[Jurident Android App](https://github.com/SURYAS1306/Jurident-App)**  
 Launched production Android app at Valsco Technologies, improving **user engagement by 20%** and **performance by 30%**.  
 
-📌 **[Feelix Flow – LIVE Project](https://feelix-flow.lovable.app/)** 🌐  
-A hosted **Web/Mobile app** project showcasing my ability to deliver **production-ready, user-friendly applications**.  
-👉 Try it here: [https://feelix-flow.lovable.app/](https://feelix-flow.lovable.app/)  
-
 ---
 
 ### 🏅 Certifications  
