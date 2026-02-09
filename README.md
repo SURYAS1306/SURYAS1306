@@ -70,3 +70,8 @@ Launched production Android app at Valsco Technologies, improving **user engagem
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SURYAS1306&theme=radical&cache_seconds=86400)
 
+### 📊 Activity Overview
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SURYAS1306&theme=github_dark)
+
+
