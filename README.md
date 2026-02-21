@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Surya Srinivasan  
-#### 🚀 Cloud | AI | Full-Stack Developer | DevOps Enthusiast  
+####  Cloud | AI | Full-Stack Developer | DevOps Enthusiast  
 
 I'm a **final-year Computer Science Engineering student at VIT Vellore (CGPA: 8.68)**.  
 Passionate about **AI, Cloud Computing, and Scalable System Design** - building intelligent platforms that deliver impact.  
