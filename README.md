@@ -1,76 +1,92 @@
-### Hi there, I'm Surya Srinivasan  
-####  Cloud | AI | Full-Stack Developer | DevOps Enthusiast
+# Hi, I'm Surya Srinivasan 
 
-I'm a **final-year Computer Science Engineering student at VIT Vellore (CGPA: 8.68)**.  
-Passionate about **AI, Cloud Computing, and Scalable System Design** - building intelligent platforms that deliver impact.  
-Currently preparing for **SDE roles & internships**, while exploring **LLM fine-tuning, RAG pipelines, and DevOps automation**.  
+### Software Engineer • Google Summer of Code 2026 Developer • Cloud & AI Enthusiast
 
----
+Final-year Computer Science Engineering student at **VIT Vellore (CGPA: 8.69)**.
 
-### 📬 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-srinivasan-441728274/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SURYAS1306)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryasrinivasan1306@gmail.com)  
+Currently contributing to **Uyuni (openSUSE Project)** through **Google Summer of Code 2026**, building enterprise-grade LDAP authentication and RBAC integration.
+
+I enjoy designing scalable backend systems, cloud-native applications, AI-powered platforms, and open-source software.
 
 ---
 
-### 🛠️ Tech Stack  
+## 🚀 Current Focus
 
-**Languages:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-**Cloud & DevOps:**  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-**Frameworks & Tools:**  
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge) 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+* Google Summer of Code 2026 @ openSUSE / Uyuni
+* Enterprise Authentication & Authorization Systems
+* Backend Engineering with Java & Spring Boot
+* Cloud Infrastructure & DevOps
+* Agentic AI & RAG Architectures
+* Distributed Systems
 
 ---
 
-### 🔥 Featured Projects  
+## 🛠️ Tech Stack
 
-📌 **[Enterprise Document Intelligence (Azure GenAI)](https://github.com/SURYAS1306/Enterprise-Document-Intelligence)**  
-Developed an intelligent document processing system using **Azure OpenAI, LangChain, and Cosmos DB**, handling **50,000+ financial documents/day** with **92% accuracy**.  
+### Languages
 
-📌 **[Multimodal RAG System](https://github.com/SURYAS1306/Multimodal-RAG)**  
-Built multimodal LLM combining **CV + NLP + structured data**, achieving **95% retrieval accuracy** and cutting inference latency from **1.2s → 200ms**.  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square\&logo=go\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 
-📌 **[RetailOps Backend Platform](https://github.com/SURYAS1306/RetailOps)**  
-Designed scalable **Spring Boot + MySQL** backend with JWT authentication, deployed on **AWS EC2 with Docker + CI/CD**, ensuring **99.9% uptime** for **10K+ concurrent users**.  
+### Backend & Databases
 
-📌 **[Jurident Android App](https://github.com/SURYAS1306/Jurident-App)**  
-Launched production Android app at Valsco Technologies, improving **user engagement by 20%** and **performance by 30%**.  
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+
+### AI & Data
+
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square\&logo=microsoftazure\&logoColor=white)
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square\&logo=amazonaws\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
 
 ---
 
-### 🏅 Certifications  
+## 🌱 Open Source
 
-- **AWS Solutions Architect – Associate** (July 2025)  
-- **AWS Cloud Practitioner** (Aug 2024)  
-- **Oracle Cloud AI Foundations** (Aug 2025)  
-- **Azure AI Fundamentals** (Sep 2024)  
+* **Google Summer of Code 2026 Developer**
+* **openSUSE / Uyuni Contributor**
+* Apache Dubbo Contributor
+* Apache CloudStack Contributor
+* MDN Web Docs Contributor
 
 ---
 
-### 📊 GitHub Stats  
+## 🏅 Certifications
 
-![Surya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SURYAS1306&show_icons=true&theme=radical&cache_seconds=86400)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SURYAS1306&theme=radical&cache_seconds=86400)
+* AWS Solutions Architect – Associate
+* AWS Cloud Practitioner
+* Azure AI Fundamentals
+* Oracle Cloud AI Foundations
 
-### 📊 Activity Overview
+---
 
+## 📫 Connect With Me
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SURYAS1306&theme=github_dark)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/surya-srinivasan-441728274/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SURYAS1306)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:suryasrinivasan1306@gmail.com)
 
+---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SURYAS1306\&show_icons=true\&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SURYAS1306\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SURYAS1306\&layout=compact\&theme=tokyonight)
+
+---
+
+> Building scalable systems, contributing to open source, and exploring the future of AI infrastructure.
